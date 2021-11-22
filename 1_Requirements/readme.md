@@ -55,7 +55,14 @@ SWOT ANALYSIS:
         -More overs can be implemented.
   
      4.THREATS:
-        -
+        -Refined game is in the market now.
+        
+ HIGH LEVEL REQUIREMENTS:
+ 
+            
+            
+            
+ LOW LEVEL REQUIREMENTS:
   
    
    
