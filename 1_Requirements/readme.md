@@ -58,7 +58,10 @@ SWOT ANALYSIS:
         -Refined game is in the market now.
         
  HIGH LEVEL REQUIREMENTS:
- 
+ | ID    	| DESCRIPTION                                            	| STATUS      	|
+|-------	|--------------------------------------------------------	|-------------	|
+| HLR_1 	| User has to enter the inputs                           	| Implemented 	|
+| HLR_2 	| Computer generates an output with respective to inputs 	| Implemented 	|
             
             
             
