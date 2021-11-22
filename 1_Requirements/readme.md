@@ -17,40 +17,45 @@ FEATURES:
 4W'S and 1H'S:
 
 WHY:
-   -To entertain people.
-   -To bring back school life experience.
-   -To know the computer response.
+    
+    -To entertain people.
+    -To bring back school life experience.
+    -To know the computer response.
    
 WHERE:
-   - This can be used for kids for gaming purpose.
-   - This can be used as an app.
+   
+    - This can be used for kids for gaming purpose.
+    - This can be used as an app.
 
 WHO:  
-   - The sole purpose is for kids and adults.
-   - Kids love playing games.
+   
+    - The sole purpose is for kids and adults.
+    - Kids love playing games.
 
 WHEN:
-   -One can play if gets bored or don't have anything to do.
-   -Basically for time pass.
+   
+    -One can play if gets bored or don't have anything to do.
+    -Basically for time pass.
 
 HOW:
-   -By giving inputs when they are batting.
-   -By giving inputs when they are bowling.
+   
+    -By giving inputs when they are batting.
+    -By giving inputs when they are bowling.
    
 SWOT ANALYSIS:
 
-  1.STRENGHTHS:
-    -Its is gaming application.
-    -Quite tricky to get a win.
+    1.STRENGHTHS:
+        -Its is gaming application.
+        -Quite tricky to get a win.
   
-  2.WEAKNESS:
-    -It is not more than 2 overs.
+     2.WEAKNESS:
+        -It is not more than 2 overs.
   
-  3.OPPORTUNITIES:  
-    -More overs can be implemented.
+     3.OPPORTUNITIES:  
+        -More overs can be implemented.
   
-  4.THREATS:
-    -
+     4.THREATS:
+        -
   
    
    
