@@ -8,4 +8,4 @@ FOLDER STRUCTURE
 | DOCUMENT 	| Oxygen documentation                          	|
 | inc      	| all header files                              	|
 | src      	| main source code for handcricket              	|
-| test     	| all source code and data for testing purposes 	|
+| test     	| all source code and data for testing purpose 	|
