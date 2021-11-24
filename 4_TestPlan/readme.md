@@ -3,7 +3,7 @@ HIGH LEVEL REQUIREMENTS:
 
 | ID    	| DESCRIPTION                                                                                                            	| STATUS      	|
 |-------	|------------------------------------------------------------------------------------------------------------------------	|-------------	|
-| HLR_1 	| Quits the bat or bowl program once input from user and computer values are equal                                       	| Implemented 	|
+| HLR_1 	| prints tie if the bat or bowl program gives sum of the input from user and computer values are equal                                Implemented 	|
 | HLR_2 	| Display the score and announce the winner by comparing the results taken from computer and user to conclude the winner 	| Implemented 	|
             
  LOW LEVEL REQUIREMENTS:
