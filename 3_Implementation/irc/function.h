@@ -1,3 +1,14 @@
+/**
+ * @file function.h
+ * @author Gulshan J Dharmaraj
+ * @brief Handcricket game function file
+ * @version 0.1
+ * @date 2021-11-21
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
 #ifndef __FUNCTION_H__
 #define __FUNCTION_H__
 #include<stdio.h>
