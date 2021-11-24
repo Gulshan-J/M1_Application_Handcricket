@@ -1,3 +1,5 @@
+
+
 int toss(int user_input,int odd_or_even)
     {
     int Bat_Bowl,user_bat_or_bowl,flag=0,com_bat_or_bowl;
@@ -76,3 +78,4 @@ int toss(int user_input,int odd_or_even)
         }
         }
     }
+
