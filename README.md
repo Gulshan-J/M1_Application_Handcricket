@@ -22,4 +22,15 @@ CODE QUALITY & ANALYSIS- DYNAMIC:
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/valgrind.yml)
 
 GIT INSPECTOR:
+
+
 [![Contribution Check - Git Inspector](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/gitinspector.yml)
+
+
+
+
+
+
+
+
+
