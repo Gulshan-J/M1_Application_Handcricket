@@ -5,12 +5,11 @@ PROJECT_NAME = Handcricket
 DOC = doc
 
 # All source code files
-SRC = project_main.c\
-src/paking_system.c
+SRC = src/toss.c src/batbowl.c src/main.c\
 
 # All test source files
-TEST_SRC = src/parking_system.c\
-test/test_parking_system.c\
+TEST_SRC = src/toss.c src/batbowl.c src/main.c\
+test/test.c\
 unity/unity.c\
 
 TEST_OUTPUT = Test_$(PROJECT_NAME).out
