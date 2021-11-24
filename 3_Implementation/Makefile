@@ -5,12 +5,12 @@ PROJECT_NAME = Handcricket
 DOC = doc
 
 # All source code files
-SRC = main.c\
-src/functions.c
+SRC = project_main.c\
+src/paking_system.c
 
 # All test source files
-TEST_SRC = src/functions.c\
-test/test_functions.c\
+TEST_SRC = src/parking_system.c\
+test/test_parking_system.c\
 unity/unity.c\
 
 TEST_OUTPUT = Test_$(PROJECT_NAME).out
@@ -33,7 +33,7 @@ $(PROJECT_NAME):all
 .PHONY: run clean test doc all
 
 all: $(SRC) $(BUILD)
-	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT) -lm
+	gcc $(SRC) $(INC) -lm -o $(PROJECT_OUTPUT)
 
 # Call `make run` to run the application
 run:$(PROJECT_NAME)
@@ -45,7 +45,7 @@ doc: $(DOC)
 
 # Build and run the unit tests
 test:$(BUILD)
-	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) -lm
+	gcc $(TEST_SRC) $(INC) -lm -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
 #Coverage
 coverageCheck: 
