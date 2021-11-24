@@ -27,7 +27,9 @@ GIT INSPECTOR:
 [![Contribution Check - Git Inspector](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/gitinspector.yml)
 
 
+UNIT TESTING:
 
+[![Unit Testing - Unity](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/unity.yml/badge.svg)](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/unity.yml)
 
 
 
