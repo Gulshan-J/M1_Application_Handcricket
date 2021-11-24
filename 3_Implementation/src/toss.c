@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
 
 
 int toss(int user_input,int odd_or_even)
