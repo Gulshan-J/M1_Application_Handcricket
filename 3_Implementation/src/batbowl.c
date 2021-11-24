@@ -1,15 +1,16 @@
 
+
 void display_bat(int over,int score)
     {
         
         printf("----------------------------------\n");
-        printf("\t\t\t\t\t Over: %d",over);
+        printf("\t\t\t\t\t Balls: %d",over);
         printf("\n\t\t\t\t\t Runs: %d",score);
     }
 void display_bowl(int over,int score)
     {
         printf("----------------------------------\n");
-        printf("\t\t\t\t\t Over: %d",over);
+        printf("\t\t\t\t\t Balls: %d",over);
         printf("\n\t\t\t\t\t Runs: %d",score); 
     }
 int user_bat2(int sum1)
@@ -40,6 +41,8 @@ int user_bat2(int sum1)
         printf("Your score is : %d\n",sum1);
         if(sum2>sum1)
         printf("COMPUTER HAS WON");
+        else if(sum2==sum1)
+        printf("MATCH ENDED IN TIE");
         else
         printf("YOU WON");  
     }
@@ -64,12 +67,14 @@ int user_bowl2(int sum3)
             }
             else
             sum4=sum4+count;
-            printf("\n Its %d runs", count);
+            printf("\n Its %d runs\n", count);
         }
         printf("The total score is: %d\n",sum4);
         printf("The total scored by computer is: %d\n",sum3);
         if(sum4<sum3)
         printf("COMPUTER WINS");
+        else if(sum4==sum3)
+        printf("MATCH ENDED IN TIE");
         else
         printf("YOU WON");  
     }
@@ -94,7 +99,7 @@ int com_bat()
             }
             else
             sum1=sum1+count;
-            printf("\n Its %d runs", count);
+            printf("\n Its %d runs\n", count);
         }
         printf("The total computer score is: %d\n",sum1);
         printf("Its Your Turn to bat\n");
@@ -121,7 +126,7 @@ int com_bowl()
             }
             else
             sum3=sum3+computer_bat;
-            printf("\n Its %d runs", count1);
+            printf("\n Its %d runs\n", count1);
         }
         printf("The total  runs computer scored is %d\n",sum3);
         printf("Its Your turn to bowl\n");
@@ -156,6 +161,8 @@ int com_user_bat(int sum1)
         printf("Your score is : %d\n",sum1);
         if(sum2>sum1)
         printf("COMPUTER HAS WON");
+        else if(sum2==sum1)
+        printf("MATCH ENDED IN TIE");
         else
         printf("YOU WON");
     }
@@ -181,12 +188,14 @@ int com_user_bowl(int sum3)
             }
             else
             sum4=sum4+count;
-            printf("\n Its %d runs", count);
+            printf("\n Its %d runs\n", count);
         }
         printf("The total score is: %d\n",sum4);
         printf("The total scored by computer is: %d\n",sum3);
         if(sum4<sum3)
         printf("COMPUTER WINS");
+        else if(sum4==sum3)
+        printf("MATCH ENDED IN TIE");
         else
         printf("YOU WON");
     }
@@ -213,7 +222,7 @@ int user_bat()
             }
             else
             sum1=sum1+count;
-            printf("\n Its %d runs", count);
+            printf("\n Its %d runs\n", count);
         }
         printf("The total score is: %d\n",sum1);
         printf("Its Computer's Turn to bat\n");
@@ -242,7 +251,7 @@ int user_bowl()
             }
             else
             sum1=sum1+computer_bat;
-            printf("\n Its %d runs", count1);
+            printf("\n Its %d runs\n", count1);
         }
         printf("The total  runs computer scored is %d\n",sum1);
         printf("Its computer turn to bowl\n");
