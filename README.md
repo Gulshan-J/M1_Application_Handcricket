@@ -7,5 +7,10 @@ CODACY BADGE:
 [![Code Quality - Static Code - Cppchec](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/c-cpp.yml)
 
 
-https://api.codiga.io/project/29954/score/svg
-https://api.codiga.io/project/29954/status/svg
+[code quality score](https://api.codiga.io/project/29954/score/svg)
+(https://api.codiga.io/project/29954/status/svg)
+
+
+
+
+
