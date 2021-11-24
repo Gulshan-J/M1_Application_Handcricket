@@ -8,8 +8,8 @@ CODACY BADGE:
 
 CODE INSPECTOR:
 
-[![code quality score](https://api.codiga.io/project/29954/score/svg)
-[![CODE GRADE](https://api.codiga.io/project/29954/status/svg)
+![code quality score](https://api.codiga.io/project/29954/score/svg)
+![CODE GRADE](https://api.codiga.io/project/29954/status/svg)
 
 
 
