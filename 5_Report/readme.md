@@ -78,4 +78,16 @@ SWOT ANALYSIS:
 |-------	|----------------------------------------------------------------------	|-------------	|
 | LLR_1 	| Input from the user                                                  	| Implemented 	|
 | LLR_2 	| No.of Balls and Displaying the score and Exit the game once finished 	| Implemented 	|
-   
+  
+  
+  
+DESIGN:
+    
+    
+    In this design folder two images of Behavorial and structural diagrams are given
+  
+  
+  
+  
+  
+  
