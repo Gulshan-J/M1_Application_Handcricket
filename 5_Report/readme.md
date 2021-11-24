@@ -1,3 +1,6 @@
+
+1_Requirements:
+
 INTRODUCTION :
 
    Hand Cricket is a very famous game among the school kids in India and similar countries. Traditionally, there are two players who will be playing the game, and after performing a ‘toss’, one chooses to bat and the other has to bowl. Both the players will (through hand gestures called ‘throws’) simultaneously signify a number between 1 to 6. If both the players point out the same number, the player who is batting gets ‘out’, else, this is repeated and whatever number the batting player (batsman) keeps throwing are added and that becomes his/her score.
@@ -80,14 +83,26 @@ SWOT ANALYSIS:
 | LLR_2 	| No.of Balls and Displaying the score and Exit the game once finished 	| Implemented 	|
   
   
-  
+2_design  
 DESIGN:
     
     
     In this design folder two images of Behavorial and structural diagrams are given
   
   
-  
+3_Implementation: 
+
+FOLDER STRUCTURE:
+
+
+
+| FOLDER   	| DESCRIPTION                                   	|
+|----------	|-----------------------------------------------	|
+| DOCUMENT 	| Oxygen documentation                          	|
+| inc      	| all header files                              	|
+| src      	| main source code for handcricket              	|
+| test     	| all source code and data for testing purpose 	|
+ 
   
   
   
