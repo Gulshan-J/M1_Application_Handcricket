@@ -17,4 +17,6 @@ CODE GRADE:
 ![CODE GRADE](https://api.codiga.io/project/29954/status/svg)
 
 
+CODE QUALITY & ANALYSIS- DYNAMIC:
 
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Gulshan-J/M1_Application_Handcricket/actions/workflows/valgrind.yml)
