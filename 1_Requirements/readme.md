@@ -64,10 +64,12 @@
         to attract people is in the market already.
         
  # HIGH LEVEL REQUIREMENTS:
-| ID    	| DESCRIPTION                                                                                                            	| STATUS      	|
-|-------	|------------------------------------------------------------------------------------------------------------------------	|-------------	|
-| HLR_1 	| Prints Tie if  sume of input from user scored value and sum of computer scored value are equal                               | Implemented 	|
-| HLR_2 	| Display the score and announce the winner by comparing the results taken from computer and user to conclude the winner 	| Implemented 	|
+
+| ID    	| DESCRIPTION                                                                                                             	| STATUS      	|
+|-------	|-------------------------------------------------------------------------------------------------------------------------	|-------------	|
+| HLR_1 	| Prints Tie if sume of input from user scored value  and sum of computer scored value are equal                          	| Implemented 	|
+| HLR_2 	| Display the score and announce the winner by comparing the results taken  from computer and user to conclude the winner 	| Implemented 	|
+| HLR_3 	| Display the runs and balls                                                                                              	| Implemented 	|
             
             
             
