@@ -78,13 +78,12 @@
             
  # LOW LEVEL REQUIREMENTS:
    
-   
-   | ID    	| DESCRIPTION                                                          	| STATUS      	|
-|-------	|----------------------------------------------------------------------	|-------------	|
-| LLR_1 	| Input from the user                                                  	| Implemented 	|
-| LLR_2 	| No.of Balls and Displaying the score and Exit the game once finished 	| Implemented 	|
-  
-  
+ | ID    	| DESCRIPTION                                            	| STATUS      	|
+|-------	|--------------------------------------------------------	|-------------	|
+| LLR_1 	| User expected to enter in the range of 1 to 6 for toss 	| Implemented 	|
+| LLR_2 	| User enters a value for odd(0) or even(1)              	| Implemented 	|
+| LLR_3 	| User enters a value for odd(0) or even (1)             	| Implemented 	|   
+
 # 2_design  
 
 # DESIGN:
@@ -112,13 +111,9 @@
 
 
 
-
 # HIGH LEVEL REQUIREMENTS:
-| ID    	| DESCRIPTION                                                                                                            	| STATUS      	|
-|-------	|------------------------------------------------------------------------------------------------------------------------	|-------------	|
-| HLR_1 	| Prints Tie if  sume of input from user scored value and sum of computer scored value are equal                               | Implemented 	|
-| HLR_2 	| Display the score and announce the winner by comparing the results taken from computer and user to conclude the winner 	| Implemented 	|
-            
+
+
 
  # LOW LEVEL REQUIREMENTS:
   
