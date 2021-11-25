@@ -48,18 +48,18 @@
    
 # SWOT ANALYSIS:
 
-    ## 1.STRENGHTHS:
+     1.STRENGHTHS:
         -Its is gaming application.
         -Simple to play.
         -Quite tricky to get a win.
   
-    ## 2.WEAKNESS:
+     2.WEAKNESS:
         -It is not more than 2 overs.
   
-    ## 3.OPPORTUNITIES:  
+     3.OPPORTUNITIES:  
         -More overs can be implemented.
   
-    ## 4.THREATS:
+     4.THREATS:
         -Refined game is in the market now that means with the graphical user interface which is likely
         to attract people is in the market already.
         
