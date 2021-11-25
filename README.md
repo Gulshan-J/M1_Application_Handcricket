@@ -1,14 +1,14 @@
 # M1_Application_Handcricket
 
-#CODACY BADGE:
+# CODACY BADGE:
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/774b84e2ea63482d959d583d4fe06042)](https://www.codacy.com/gh/Gulshan-J/M1_Application_Handcricket/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gulshan-J/M1_Application_Handcricket&amp;utm_campaign=Badge_Grade)
 
-#CODE SCORE:
+# CODE SCORE:
 
 ![code quality score](https://api.codiga.io/project/29954/score/svg)
 
-#CODE GRADE:
+# CODE GRADE:
 
 ![CODE GRADE](https://api.codiga.io/project/29954/status/svg)
 
@@ -23,7 +23,7 @@
 
 
 
-  FOLDER STRUCTURE:
+  # FOLDER STRUCTURE:
   
   | FOLDER           	| DESCRIPTION                                   	|
 |------------------	|-----------------------------------------------	|
