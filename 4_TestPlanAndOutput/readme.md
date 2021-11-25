@@ -1,9 +1,10 @@
 
 # HIGH LEVEL REQUIREMENTS:
-| ID    	| DESCRIPTION                                                                                                            	| STATUS      	|
-|-------	|------------------------------------------------------------------------------------------------------------------------	|-------------	|
-| HLR_1 	| Prints Tie if  sume of input from user scored value and sum of computer scored value are equal                               | Implemented 	|
-| HLR_2 	| Display the score and announce the winner by comparing the results taken from computer and user to conclude the winner 	| Implemented 	|
+| ID    	| DESCRIPTION                                                                                                             	| Exp IN           	| Exp OUT                 	| Actual OUT              	| Type of test 	|
+|-------	|-------------------------------------------------------------------------------------------------------------------------	|------------------	|-------------------------	|-------------------------	|--------------	|
+| HLR_1 	| Prints Tie if sume of input from user scored value  and sum of computer scored value are equal                          	| Values processed 	| MATCH ENDED IN TIE      	| MATCH ENDED IN TIE      	| Requirement  	|
+| HLR_2 	| Display the score and announce the winner by comparing the results taken  from computer and user to conclude the winner 	| values processed 	| computer wins/you wins  	| computer wins/you wins  	| Requirement  	|
+| HLR_3 	| Display the runs and balls                                                                                              	| function called  	| displays runs and balls 	| displays runs and balls 	| Requirement  	|
             
 
  # LOW LEVEL REQUIREMENTS:
